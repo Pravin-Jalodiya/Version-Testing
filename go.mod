@@ -1,5 +1,4 @@
-module github.com/Pravin-Jalodiya/Version-Testing/v2
+module github.com/Pravin-Jalodiya/Version-Testing
 
 go 1.22.5
 
-require github.com/Pravin-Jalodiya/Version-Testing v1.9.0 // indirect
