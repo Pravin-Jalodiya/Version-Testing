@@ -6,4 +6,5 @@ var Global1 = 10
 
 func Testing2() {
 	fmt.Print(Global1)
+	fmt.Print(Global1 + 1)
 }
